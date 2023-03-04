@@ -1,4 +1,4 @@
-### Hi there 👋
+### print("Hello World!👋") 
 
 <!--
 **HErenK-4216/HErenK-4216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
